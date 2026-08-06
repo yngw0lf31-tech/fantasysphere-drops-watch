@@ -1,7 +1,7 @@
 name: veille-drops
 on:
   schedule:
-    - cron: "*/5 * * * *"   # toutes les ~5 min (GitHub peut retarder un peu)
+    - cron: "3-58/5 * * * *"   # toutes les ~5 min, minutes décalées (files GitHub moins chargées qu'aux :00/:05)
   workflow_dispatch:
     inputs:
       hello:
