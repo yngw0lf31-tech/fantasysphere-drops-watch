@@ -1,16 +1,16 @@
 {
  "https://en.fantasysphere.net/product/boite-de-24-boosters-op17-one-piece-cg-op-17-en-10042437": {
-  "errors": 11,
+  "errors": 12,
   "error_alerted": true,
   "status": "NOT_SOLD"
  },
  "https://oupi.eu/fr/display-one-piece/7369-display-op-17-boite-de-booster-anglais-one-piece-card-game.html": {
-  "errors": 379,
+  "errors": 380,
   "error_alerted": true,
   "status": "OUT_OF_STOCK"
  },
  "https://oupi.eu/fr/case-scelle-de-display/7370-case-scellee-de-12-display-op-17-anglais-one-piece-card-game.html": {
-  "errors": 379,
+  "errors": 380,
   "error_alerted": true,
   "status": "OUT_OF_STOCK"
  }
