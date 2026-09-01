@@ -5,13 +5,13 @@
   "status": "NOT_SOLD"
  },
  "https://oupi.eu/fr/display-one-piece/7369-display-op-17-boite-de-booster-anglais-one-piece-card-game.html": {
-  "errors": 784,
-  "error_alerted": true,
+  "errors": 0,
+  "error_alerted": false,
   "status": "OUT_OF_STOCK"
  },
  "https://oupi.eu/fr/case-scelle-de-display/7370-case-scellee-de-12-display-op-17-anglais-one-piece-card-game.html": {
-  "errors": 784,
-  "error_alerted": true,
+  "errors": 0,
+  "error_alerted": false,
   "status": "OUT_OF_STOCK"
  }
 }
